@@ -18,7 +18,10 @@ repl <- function(string, limit = 60){
     object_type = "character")
 }
 
-repl("n = 5608. Logistic Regression for SWD (freq_ins; No/Yes); passive imputation for Big 5 (v1b5); 2022-12-09")
+repl("Power and sample size analysis
+for longitudinal mixed models of health
+in populations exposed to environmental
+contaminants")
 
 
 repl_no_line_breaks <- function(string){
